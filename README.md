@@ -57,7 +57,7 @@ carshop/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/JJonnass/carshop.git
+git clone https://github.com/JJonnass/car-management-app.git
 cd carshop
 
 # 2. Install dependencies
@@ -65,3 +65,10 @@ npm install
 
 # 3. Start the development server
 npm run dev
+```
+---
+## Learning Outcomes
+- Built modular components with props and state
+- Managed controlled forms with validation
+- Practiced React fundamentals using Vite
+- Gained confidence in clean UI structure and styling
