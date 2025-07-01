@@ -57,7 +57,7 @@ carshop/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/carshop.git
+git clone https://github.com/JJonnass/carshop.git
 cd carshop
 
 # 2. Install dependencies
